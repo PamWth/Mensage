@@ -27,21 +27,33 @@ This way, you won't miss out on any content and can make the most of the class.
 ```
 ---
 
-### 2. Request for Students to Get in Touch 📢
+### 2. Message Regarding Absences ⚠️
+```text
+Hey everyone, make sure to attend class! Attendance is very important for keeping up with the material and not falling behind. 💻📚
+```
+---
+
+### 3. Confirm Attendance 📌
+```text
+Hi! Just checking to see if you're coming to the course. Could you please confirm?
+```
+---
+
+### 4. Request for Students to Get in Touch 📢
 ```text
 Hey everyone, I need to speak with a few students. 
 Could the following students: [XXXXXXXX] please get in touch with me as soon as possible? Thank you! 😊
 ```
 ---
 
-### 3. Class Rescheduling 🗓️
+### 5. Class Rescheduling 🗓️
 ```text
 Hello! I’d like to know what days and times you have available to reschedule our class.
 Please let me know!
 ```
 ---
 
-### 4. Exam Rescheduling 🗒️🖊️
+### 6. Exam Rescheduling 🗒️🖊️
 ```text
 Hello! I would like to know what days and times you have available to reschedule your test.
 Let me know, please!
@@ -49,7 +61,7 @@ Let me know, please!
 
 ---
 
-### 5. Notice of Examination 📚✏️
+### 7. Notice of Examination 📚✏️
 ```text
 Hi everyone! Just dropping by to let you know we’ll have a test in the next class! 📝
 Pay attention to the topics and get ready.
@@ -57,7 +69,7 @@ Good luck!! 😊
 ```
 ---
 
-### 6. Module Approval 🎉
+### 8. Module Approval 🎉
 ```text
 Congratulations to everyone! You passed the module! 👏💻
 All the effort, dedication and consistency paid off, guys.
@@ -65,7 +77,7 @@ Keep it up to learn more and more and finally earn your certificate!! 🚀
 ```
 ---
 
-### 7. Course Completion 🏆🎓
+### 9. Course Completion 🏆🎓
 ```text
 🎉 Congratulations to everyone! You have successfully completed the course! 💻👏
 It was great to be part of this journey with you.
